@@ -1,5 +1,5 @@
 # Scotch-Whiskey
- In this repository I am trying to answer the following questions regarding the scotch dataset:
+ In this repository I am trying to answer the following questions regarding the scotch dataset. Please view the jupyter notebook for solution.
  
  Please provide meaningful insights, e.g.:
 -	What interesting information user can find in the dataset? - (see EDA)
